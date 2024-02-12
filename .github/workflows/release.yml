@@ -4,6 +4,9 @@ on:
         - "vite*"
       paths:
         - "/**"
+permissions:
+  contents: write
+  pages: write
 
 jobs:
     build:
