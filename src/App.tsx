@@ -1,5 +1,5 @@
 
-function App (): JSX.Element {
+function App () {
   return (
     <div>
       <h1 className='text-amber-400'>Init Project!</h1>
